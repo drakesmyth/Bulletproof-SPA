@@ -1,2 +1,2 @@
 # PRUF-SPA
-Single page app template for Bulletproof project
+Single page app template for the PRUF project
